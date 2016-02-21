@@ -15,7 +15,7 @@
 ### Tools
 
 - [Toshi](https://toshi.io) – An open source Bitcoin node built to power large scale web applications. (Ruby)
-- [BlockApps Strato](https://blockapps.net) – BlockApps is the easiest way to build Ethereum apps for any platform or device.
+- [BlockApps Strato](http://blockapps.net) – BlockApps is the easiest way to build Ethereum apps for any platform or device.
 
 
 ### Articles
