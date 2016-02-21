@@ -15,6 +15,7 @@
 ### Tools
 
 - [Toshi](https://toshi.io) – An open source Bitcoin node built to power large scale web applications. (Ruby)
+- [Parity](https://ethcore.io/parity.html) – Next Generation Ethereum Client
 - [BlockApps Strato](http://blockapps.net) – BlockApps is the easiest way to build Ethereum apps for any platform or device.
 
 
