@@ -11,6 +11,8 @@ A new peer-to-peer hypermedia protocol
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) – Decentralized websites using Bitcoin crypto and BitTorrent network
 - [OpenChain](https://www.openchain.org/) – Openchain is an open source distributed ledger technology. It is suited for organizations wishing to issue and manage digital assets in a robust, secure and scalable way
 - [BigchainDB](https://www.bigchaindb.com/) – BigchainDB allows developers to deploy blockchain proof-of-concepts, platforms and applications with a scalable blockchain database.
+- [Coinprism](https://www.coinprism.com/) – Use the Bitcoin blockchain with any kind of asset
+- [Counterparty](http://counterparty.io/) – Counterparty is a platform for free and open financial tools on the Bitcoin network. (Similar to Ethereum)
 
 
 ### Apps
