@@ -9,8 +9,8 @@ A new peer-to-peer hypermedia protocol
 - [OpenBazaar](http://openbazaar.org/) – A free decentralized market based on bitcoin
 - [Stellar](https://www.stellar.org/) – Stellar is an open platform for building financial products that connect people everywhere.
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) – Decentralized websites using Bitcoin crypto and BitTorrent network
-- [OpenChain](https://www.openchain.org/)
-- [BigchainDB](https://www.bigchaindb.com/)
+- [OpenChain](https://www.openchain.org/) – Openchain is an open source distributed ledger technology. It is suited for organizations wishing to issue and manage digital assets in a robust, secure and scalable way
+- [BigchainDB](https://www.bigchaindb.com/) – BigchainDB allows developers to deploy blockchain proof-of-concepts, platforms and applications with a scalable blockchain database.
 
 
 ### Apps
