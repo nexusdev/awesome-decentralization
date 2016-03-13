@@ -14,12 +14,13 @@ A new peer-to-peer hypermedia protocol
 - [Coinprism](https://www.coinprism.com/) – Use the Bitcoin blockchain with any kind of asset
 - [Counterparty](http://counterparty.io/) – Counterparty is a platform for free and open financial tools on the Bitcoin network. (Similar to Ethereum)
 - [Factom](http://factom.org/) – Businesses and governments can use Factom to simplify records management, record business processes, and address security and compliance issues
+
+
+
+### Apps & dApps & DAO
+- [Arbore](https://github.com/MichaelMure/Arbore-qt) – A friend-to-friend file-sharing app based on IPFS
 - [Colony](http://colony.io/) – Colony makes it easy for people all over the world to build companies together online.
 - [Augur](http://www.augur.net/) – The crowd is smart. Use its expertise to beat the experts with... Stunningly Accurate Predictions 
-
-
-### Apps
-- [Arbore](https://github.com/MichaelMure/Arbore-qt) – A friend-to-friend file-sharing app based on IPFS
 
 ### Tools
 
