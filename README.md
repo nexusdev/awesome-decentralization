@@ -2,11 +2,13 @@
 
 ### Platforms
 
-- [IPFS](https://ipfs.io)
-- [Ethereum](https://ethereum.org)
-- [MaidSafe](http://maidsafe.net/)
-- [OpenBazaar](http://openbazaar.org/)
-- [Stellar](https://www.stellar.org/)
+- [IPFS](https://ipfs.io) – IPFS is The Permanent Web
+A new peer-to-peer hypermedia protocol
+- [Ethereum](https://ethereum.org) – Ethereum is a decentralized platform that runs smart contracts
+- [MaidSafe](http://maidsafe.net/) – A new internet
+- [OpenBazaar](http://openbazaar.org/) – A free decentralized market based on bitcoin
+- [Stellar](https://www.stellar.org/) – Stellar is an open platform for building financial products that connect people everywhere.
+- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) – Decentralized websites using Bitcoin crypto and BitTorrent network
 
 
 ### Apps
